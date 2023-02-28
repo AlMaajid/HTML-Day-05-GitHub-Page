@@ -1,2 +1,1 @@
-# HTML-Day-05-GitHub-Page
-GitHub Page
+Github-Profile-Page
